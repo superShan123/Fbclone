@@ -1,0 +1,197 @@
+.head{
+    background:#3b5998;
+    width:100%;
+    height:105px;
+}
+
+
+.fb{
+    color:white;
+    padding-left:120px;
+    padding-top:14px;
+    float:left;
+    
+}
+.email{
+    color: white;
+  padding-left: 68%;
+  padding-top: 10px;
+}
+    
+    
+
+
+
+.email-box{
+    background: white;
+  width: 145px;
+  height: 19%;
+  float: left;
+  margin-left: 780px;
+  margin-top: -5px;
+}
+
+.password{
+  color: white;
+  float:left;
+  margin-top:-59px;
+  margin-left:56px;
+
+}
+
+.password-box {
+  background: white;
+  width: 143px;
+  height: 19%;
+  float: left;
+  margin-left: 79%;
+  margin-top: -29px;
+}
+
+
+
+
+
+.body1{
+  color:black;
+  margin-top:63px;
+  margin-left:125px;
+  
+}
+
+.create{
+  color:black;
+  margin-left:1017px;
+  margin-top:-85px;
+}
+
+.small{
+  color:lightsteelblue;
+  margin-left:70%;
+  margin-top:-1%;
+}
+
+.body3{
+
+  margin-left:67%;
+  height:30%;
+ 
+  
+} 
+  
+
+.body4{
+  margin-left: 30%;
+  margin-top: 1%;
+  padding-left: 11%;
+  
+}
+
+
+
+.birth{
+  color:black;
+  
+}
+
+.box6{
+  width:500%;
+}
+
+
+
+.button1{
+
+
+  
+  width:100%;
+  height:80%;
+  margin-left:10%;
+}
+
+.large{
+  margin-top:-109%;
+  margin-left:40%;
+  color:lightsteelblue;
+}
+
+
+
+
+.para1{
+  color:lightskyblue;
+  margin-top:16%;
+  
+  
+  
+  
+}
+
+.para2{
+  color:black;
+  float:left;
+  margin-top:-12%;
+  margin-left:20%
+}
+
+.image{
+  margin-left:100%;
+}
+  
+.body{
+  background:whitesmoke;
+  height:450px;
+
+  
+  
+  
+}
+
+body{
+  margin:0;
+}
+
+
+
+.bottom-part{
+  color:blue;
+  margin-left:-160%;
+  margin-top:100%;
+  
+}
+
+.image{
+  margin-left:-170%;
+  margin-top:-80%;
+  
+}
+
+.button{
+  margin-left:91%;
+  margin-top:-8px;
+
+}
+
+
+.past{
+  background:whitesmoke;
+  height:8%;
+  width:100%;
+  margin-top:-16%;
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
